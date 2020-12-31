@@ -1,0 +1,20 @@
+$ git reflog
+92056ec (HEAD -> HW15_Git, develop) HEAD@{0}: merge develop: Fast-forward
+2824b80 (master) HEAD@{1}: checkout: moving from develop to HW15_Git
+92056ec (HEAD -> HW15_Git, develop) HEAD@{2}: commit: added index.html
+4cd367b (HW15_Git_2, HW15_Git_1) HEAD@{3}: checkout: moving from HW15_Git_2 to develop
+4cd367b (HW15_Git_2, HW15_Git_1) HEAD@{4}: checkout: moving from HW15_Git_1 to HW15_Git_2
+4cd367b (HW15_Git_2, HW15_Git_1) HEAD@{5}: merge develop: Fast-forward
+c49ea53 HEAD@{6}: checkout: moving from develop to HW15_Git_1
+4cd367b (HW15_Git_2, HW15_Git_1) HEAD@{7}: merge HW15_Git_2: Fast-forward
+c49ea53 HEAD@{8}: merge HW15_Git_1: Fast-forward
+187d8bb HEAD@{9}: checkout: moving from HW15_Git_2 to develop
+4cd367b (HW15_Git_2, HW15_Git_1) HEAD@{10}: commit: created folder with styles
+c49ea53 HEAD@{11}: checkout: moving from HW15_Git_1 to HW15_Git_2
+c49ea53 HEAD@{12}: commit: added js source
+49d0e56 HEAD@{13}: commit: added js file with img folder
+8a7c09a HEAD@{14}: commit: added folder with images
+187d8bb HEAD@{15}: checkout: moving from develop to HW15_Git_1
+187d8bb HEAD@{16}: commit: Added index.html
+2824b80 (master) HEAD@{17}: checkout: moving from master to develop
+2824b80 (master) HEAD@{18}: commit (initial): added .gitignore
